@@ -6,7 +6,7 @@
 			return array('name' => 'Enable Codemirror',
 						 'version' => '1.0',
 						 'release-date' => '2009-11-19',
-						 'author' => array('name' => 'Ole Anders Eidjord',
+						 'author' => array('name' => 'Ole A. E.',
 							        'website' => 'http://oleae.no',
 							        'email' => 'post@oleae.no')
 				 		);
