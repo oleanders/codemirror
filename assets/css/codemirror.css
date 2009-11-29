@@ -1,0 +1,16 @@
+
+.CodeMirror-line-numbers {
+   width: 22px!important;
+   color: #aaa!important;
+   background-color: #eee!important;
+   text-align: right!important;
+   padding-right: .3em!important;
+   font-size: 8pt!important;
+	line-height: 16px;
+   font-family: 'Courier New', monospace!important;
+   padding-top: 3px!important;
+}
+
+.CodeMirror-wrapping {
+	border: 1px solid #aaa;
+}
