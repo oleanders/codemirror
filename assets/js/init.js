@@ -8,8 +8,8 @@ jQuery(document).ready(function() {
 	 var editor = CodeMirror.fromTextArea('code', {
       height: "600px",
       parserfile: "parsexml.js",
-      stylesheet: "/extensions/codemirror/assets/css/xmlcolors.css",
-      path: "/extensions/codemirror/assets/js/",
+      stylesheet: Symphony.WEBSITE + "/extensions/codemirror/assets/css/xmlcolors.css",
+      path: Symphony.WEBSITE + "/extensions/codemirror/assets/js/",
       continuousScanning: 500,
       lineNumbers: true 
     });
