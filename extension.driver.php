@@ -5,7 +5,7 @@
 		public function about(){
 			return array('name' => 'Enable Codemirror',
 						 'version' => '1.1',
-						 'release-date' => '2009-11-19',
+						 'release-date' => '2009-12-01',
 						 'author' => array('name' => 'Ole A. E.',
 							        'website' => 'http://oleae.no',
 							        'email' => 'post@oleae.no')
